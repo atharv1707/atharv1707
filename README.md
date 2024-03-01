@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **atharvpal17@gmail.com**
 
-- ⚡ Fun fact **I somehow happen to know ALOT of things. ALOT!**
+- ⚡ Fun fact **I somehow happen to know something about alot of things. ALOT!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
