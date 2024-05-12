@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">A developing developer from India</h3>
+<h3 align="center">I code because it's fun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv1707&label=Profile%20views&color=0e75b6&style=flat" alt="atharv1707" /> </p>
 
-- 🌱 I’m currently learning **DSA, Machine Learning and Software development**
+- 🌱 I’m work with  **Machine Learning and Software Development**
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I somehow happen to know something about alot of things. ALOT!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
