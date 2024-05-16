@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv1707&label=Profile%20views&color=0e75b6&style=flat" alt="atharv1707" /> </p>
 
-- 🌱 I’m work with  **Machine Learning and Software Development**
+- 🌱 I’m working with  **Machine Learning and Software Development**
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
