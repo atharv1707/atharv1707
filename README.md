@@ -5,9 +5,9 @@
 
 - 🌱 I’m working with  **Machine Learning and Software Development**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **DSA , Machine Learning**
+- 💬 Ask me about **Machine Learning, C++ Projects**
 
 - 📫 How to reach me **atharvpal17@gmail.com**
 
